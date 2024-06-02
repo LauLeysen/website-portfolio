@@ -1,0 +1,19 @@
+/* Home component styles */
+.home {
+    text-align: center;
+    padding-top: 100px; /* Adjust based on nav size */
+  }
+  
+  .home h1 {
+    font-size: 36px;
+    color: #4ee2ec;
+  }
+  
+  .home p {
+    font-size: 20px;
+    margin-top: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
